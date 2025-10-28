@@ -1,5 +1,0 @@
-vi naveen
-:wq!
-echo -e good\nmoring
-wc -l file name
-sed -n "47p" file name
